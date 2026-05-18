@@ -1,0 +1,4 @@
+pixelskit-wolt is distributed under the GNU General Public License v2.0 or later.
+
+This plugin is a rebranded, no-license, multi-venue build for WooCommerce and Wolt
+Venueful integrations.
